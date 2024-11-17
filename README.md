@@ -1,6 +1,6 @@
 ![](./res/banner.png)
 
-# chameleon
+# chai
 
 🦎 Terminal string styling for zig.
 
